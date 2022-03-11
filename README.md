@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @andrewseba
 - 👀 I’m interested in Game Development
-- 🌱 I’m currently learning How to make a monster hunter type game.
-- 💞️ I’m looking to collaborate on action games.
+- 🌱 I’m currently trying to make a demake of kerbal space program on a gameboy. :)
+- 💞️ I’m looking to collaborate on games!
 - 📫 How to reach me sebaturtle@gmail.com
 
 <!---
